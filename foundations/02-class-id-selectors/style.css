@@ -1,0 +1,19 @@
+.odd{
+    background-color: rgb(224, 20, 122);
+    font-family: verdana, DejaVu Sans, sans-serif;
+}
+
+#secElement{
+    color: blue;
+    font-size: 36px;
+}
+
+.subclass{
+    font-size: 24px;
+}
+
+#fourthElement{
+    background-color: rgb(64, 187, 64);
+    font-size: 24px;
+    font-weight: bold;
+}
