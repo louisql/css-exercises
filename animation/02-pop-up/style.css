@@ -39,6 +39,10 @@ button {
   pointer-events: none;
   opacity: 0%;
   text-align: center;
+  transition: opacity .99s ease;
+  
+  
+  
 }
 .popup-modal p {
   margin-bottom: 24px
@@ -60,4 +64,3 @@ button {
 .backdrop.show {
   opacity: 30%;
 }
-
